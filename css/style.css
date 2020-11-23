@@ -86,10 +86,8 @@
 }
 
 .footer{
-    position: fixed;
-    bottom: 10px;
     text-align: center;
-    width: 100%;
     color: white;
     font-size: 18px;
+    padding: 20px 0;
 }
